@@ -20,6 +20,8 @@ Each project represents hands-on practice of layout, styling, and basic UI ideas
 |----|-------------|-------------|
 | 1️⃣ | Profile Card | A simple profile card with visual effects using HTML & CSS |
 | 2️⃣ | Flipping Card | A basic 3D flipping card animation using HTML and CSS (CSS transform & perspective) |
+| 3️⃣ | Sidebar Navigation Menu | A structured sidebar navigation layout built using HTML and CSS, focusing on positioning and layout design |
+| 4️⃣ | Sidebar Menu | A simple sidebar navigation layout built using HTML and CSS, focusing on structure and clean UI design |
 
 > 📌 Each project is organized in its own folder for clarity and easy navigation.
 
