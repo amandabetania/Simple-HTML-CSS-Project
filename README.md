@@ -23,6 +23,8 @@ Each project represents hands-on practice of layout, styling, and basic UI ideas
 | 3️⃣ | Sidebar Navigation Menu | A structured sidebar navigation layout built using HTML and CSS, focusing on positioning and layout design |
 | 4️⃣ | Sidebar Menu | A simple sidebar navigation layout built using HTML and CSS, focusing on structure and clean UI design |
 | 5️⃣ | Simple Website Layout with Navbar | A basic website layout built using HTML and CSS, featuring a navigation bar and structured content sections |
+| 6️⃣ | Responsive Contact Us Page | A responsive contact page built using HTML and CSS, featuring structured form layout, clean UI design, and mobile-friendly responsiveness |
+
 
 
 > 📌 Each project is organized in its own folder for clarity and easy navigation.
