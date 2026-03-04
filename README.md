@@ -24,7 +24,7 @@ Each project represents hands-on practice of layout, styling, and basic UI ideas
 | 4️⃣ | Sidebar Menu | A simple sidebar navigation layout built using HTML and CSS, focusing on structure and clean UI design |
 | 5️⃣ | Simple Website Layout with Navbar | A basic website layout built using HTML and CSS, featuring a navigation bar and structured content sections |
 | 6️⃣ | Responsive Contact Us Page | A responsive contact page built using HTML and CSS, featuring structured form layout, clean UI design, and mobile-friendly responsiveness |
-| 7️⃣ |   | A vertical tab interface built using pure HTML and CSS, where content dynamically changes based on the selected menu without JavaScript |
+| 7️⃣ | Vertical Tabs (HTML & CSS Only | A vertical tab interface built using pure HTML and CSS, where content dynamically changes based on the selected menu without JavaScript |
 | 8️⃣ | Simple Portfolio Website | A responsive single-page personal portfolio website built using HTML and CSS to showcase profile, skills, and projects |
 
 
